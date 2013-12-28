@@ -21,6 +21,7 @@ PyQt(QtのPython向けbinding)を使って遊ぶ
 	```
 	% brew install sip --with-python3
 	% brew install qt
+	% brew install pyqt --with-python3
 	```
 
 4. PyCharmにInterpreterを設定する
