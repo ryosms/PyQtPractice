@@ -30,3 +30,11 @@ PyQt(QtのPython向けbinding)を使って遊ぶ
 	`+`ボタンより2でインストールしたPython3を選択する  
 	設定が完了したらプロジェクトのインタープリターとして設定するかどうかを聞かれるので`Yes`を選択する
 
+5. Qtのツールへのシンボリックリンクをはる(おこのみで)
+
+    ```
+    # qtのインストールディレクトリの各種appを/Applicationsに
+    % mkdir /Applications/Qt
+    % ln -s /usr/local/Cellar/qt/<version>/<Application>.app/ /Applications/Qt/<Application>.app
+    ```
+
