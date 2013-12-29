@@ -5,6 +5,14 @@ PyQt(QtのPython向けbinding)を使って遊ぶ
 
 「PyQtではじめるGUIプログラミング」<http://www.slideshare.net/RansuiIso/pyqtgui>をチュートリアルにする
 
+* HelloWorld/
+* RamenTimer/
+
+上記が終わったので<http://zetcode.com/gui/pyqt4/>をやってみる
+
+* ZetCodeTutorial/
+
+
 環境構築
 --------
 
